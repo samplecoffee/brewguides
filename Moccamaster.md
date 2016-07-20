@@ -1,5 +1,5 @@
 # Method for Moccamaster batch brewer
-This recipes makes the full 1.25 litre thermos of coffee. If you’re already twitchy and a full 1.25 litres is a little scary, just scale back the coffee and water in the usual 1:16 ratio of grounds to water.
+This recipe makes the full 1.25 litre thermos of coffee. If you’re already twitchy and a full 1.25 litres is a little scary, just scale back the coffee and water in the usual 1:16 ratio of grounds to water.
 
 You’ll want to grind slightly more finely than you would for manual pour-over techniques such as V60 or Chemex.
 

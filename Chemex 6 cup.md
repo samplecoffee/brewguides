@@ -1,5 +1,5 @@
 # Method for 6 Cup Chemex
-This recipes makes around 800ml of coffee
+This recipe makes around 800ml of coffee
 
 1. Put the filter paper into your Chemex with the thicker (3-ply) side toward the spout.
 It’s best to put the thicker side of the filter across the spout so the paper won’t tear.

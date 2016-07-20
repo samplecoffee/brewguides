@@ -1,5 +1,5 @@
 # Method for 3 Cup Chemex
-This recipes makes around 400ml of coffee
+This recipe makes around 400ml of coffee
 
 1. Fold the filter paper, and put it into your Chemex with the thicker side toward the spout.
 It’s best to put the thicker side of the filter across the spout so the paper won’t tear.

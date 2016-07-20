@@ -1,5 +1,5 @@
 # Method for 1 cup Hario V60 brewer
-This recipes makes around 250ml of coffee
+This recipe makes around 250ml of coffee
 
 1. Put filter paper into your V60, and place it on top of your mug or server. Rinse the paper with hot water, then discard the water.
 Rinsing gets rid of the paper taste, and also pre-warms the brewer and mug or server.
